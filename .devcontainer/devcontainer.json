@@ -1,0 +1,12 @@
+
+{
+    // Name this configuration
+    "name": "Flutter PoC",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
